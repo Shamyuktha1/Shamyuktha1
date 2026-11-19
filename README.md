@@ -1,16 +1,16 @@
-## Hi there 👋
-
+## Hey, I'm Shamyuktha!
 <!--
 **Shamyuktha1/Shamyuktha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+BSc Computer Technology Student
+Technology Explorer| Psychology Enthusiast
+Currently learning and building projects
+My Interests
+-AR and VR technologies
+-Python Programming and Automation
+-Networking and Network Security
+-Cybersecurity
+-Psychology and Human Behaviour
+-Continuous Learning and Knowledge Sharing
+Currently Exploring
+Python programming, AR, Digital Forensics Techniques and Innovative Technology Solution
