@@ -1,17 +1,38 @@
-## Hey, I'm Shamyuktha!
+## 👋 Hey, I'm Shamyuktha!
+
+💻 Computer Technology Student | 🔐 Cybersecurity Enthusiast | 🧠 Psychology Explorer
+
 Welcome to my little corner of GitHub!
-Technology Explorer| Psychology Enthusiast
-I'm a BSc Computer Technology Student with a curiosity for technology, digital security and human behaviour. I enjoy exploring new concepts, experimenting with code and learning how things work behind the scenes.
-Currently learning and building projects
-My Interests
--AR and VR technologies
--Python Programming and Automation
--Networking and Network Security
--Cybersecurity
--Psychology and Human Behaviour
--Continuous Learning and Knowledge Sharing
-Currently Exploring
-Python programming, AR, Digital Forensics Techniques and Innovative Technology Solution
-<!--
-**Shamyuktha1/Shamyuktha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm a BSc Computer Technology student curious about technology, digital security and human behaviour. I enjoy exploring new concepts, experimenting with code and discovering how things work behind the scenes.
+
+---
+
+🌟 About Me
+
+- 🎓 Pursuing BSc Computer Technology
+- 🔐 Exploring Cybersecurity and Digital Forensics
+- 💻 Learning programming and software development
+- 🧠 Interested in Psychology and Human Behaviour
+- 🔍 Passionate about analytical thinking and problem-solving
+- 🌱 Always learning and exploring new ideas
+
+💡 Areas of Interest
+
+- Cybersecurity & Ethical Hacking
+- Digital Forensics & Incident Investigation
+- Artificial Intelligence & Emerging Technologies
+- Python Programming & Automation
+- Networking & Network Security
+- Augmented Reality & Virtual Reality
+- Psychology & Human Behaviour
+- Critical Thinking & Problem Solving
+
+🚀 Current Project
+
+TRACE-X — A cross-source digital forensic evidence correlation and incident reconstruction project. (In Progress)
+
+"Stay curious and never stop exploring"
+
+⭐ Thanks for visiting my profile!
 
